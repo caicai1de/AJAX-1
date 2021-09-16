@@ -1,0 +1,1 @@
+console.log('AJAX 插入JS')
